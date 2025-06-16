@@ -69,8 +69,8 @@ Feel free to:
   
 **📬 All contributions are credited and appreciated!**
 ----
-<b>📄 License & Copyright</b>
-<h2 align="center"><b> © 2025 Ashith Fernandes, St Aloysius Deemed to be University – MSc Software Technology  
+**<b>📄 License & Copyright</b>**
+<h3 align="center"><b> © 2025 Ashith Fernandes, St Aloysius Deemed to be University – MSc Software Technology  
 All rights reserved. This project is part of academic coursework and is open for learning and contributions.
-</b></h2>
+</b></h3>
 
