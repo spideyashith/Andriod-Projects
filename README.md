@@ -59,3 +59,17 @@ git clone https://github.com/spideyashith/Andriod-Projects.git
 cd Andriod-Projects
 
 
+
+🤝 Contributions Welcome!
+This is an open educational resource.
+Feel free to:
+Add more lab examples
+Improve the UI/UX
+Migrate to Kotlin or Jetpack Compose
+Share new ideas via issues or pull requests
+📬 All contributions are credited and appreciated!
+
+
+📄 License
+This project is licensed under the MIT License – you are free to use, modify, and distribute it.
+
