@@ -1,7 +1,7 @@
 
 # 📱 Android Lab Programs – St Aloysius College (AIMIT)
-<p aligin="center">
-![Project Banner](https://raw.githubusercontent.com/spideyashith/angularapp/refs/heads/master/aimit-logo.webp)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/spideyashith/angularapp/refs/heads/master/aimit-logo.webp" alt="AIMIT Logo" width="400"/>
 </p>
 
 > 🎓 Developed as part of the MSc Software Technology program at **St Aloysius Deemed to be University, AIMIT, Mangalore**.
