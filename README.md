@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/spideyashith/angularapp/refs/heads/master/aimit-logo.webp" alt="AIMIT Logo" width="400"/>
-</p>
-------------------------------------------------------------------------------------------------------------------------------------------
+
 # 📱 Android Lab Programs – St Aloysius College (AIMIT)
 
 ![Project Banner](https://raw.githubusercontent.com/spideyashith/angularapp/refs/heads/master/aimit-logo.webp)
