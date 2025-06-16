@@ -58,8 +58,8 @@ These projects are done using **Java** and **Android Studio**, and cover core An
 git clone https://github.com/spideyashith/Andriod-Projects.git
 cd Andriod-Projects
 
-
-
+```
+---
 🤝 Contributions Welcome!
 This is an open educational resource.
 Feel free to:
