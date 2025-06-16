@@ -25,22 +25,20 @@ These projects are done using **Java** and **Android Studio**, and cover core An
 
 ---
 
-## 📂 Lab Programs Included
-
-| # | Topic                        | Description                      |
-|---|-----------------------------|----------------------------------|
-| 1 | Broadcast Receiver          | Handling broadcasts in Android   |
-| 2 | Content Provider            | Sharing data between apps        |
-| 3 | Dialog                     | Using alert and custom dialogs   |
-| 4 | Drawer Layout               | Navigation drawer UI             |
-| 5 | External Storage            | File read/write on SD card       |
-| 6 | Fragment Communication      | Fragment call implementation     |
-| 7 | GPS Demo                    | Location access demo             |
-| 8 | Internal Storage            | File I/O within app storage      |
-| 9 | Service                     | Background task demo             |
-| 10| Shared Preferences          | Simple key-value storage         |
-| 11| Thread Demo                 | Multithreading in Android        |
-| 12| Voice Note                  | Record & save voice note         |
+| 🔢 No. | 🧪 Lab Topic                  | 📝 What You'll Learn                                  |
+| :----: | :---------------------------- | :---------------------------------------------------- |
+|   1️⃣  | 📡 **Broadcast Receiver**     | React to system-wide events like SMS or battery low   |
+|   2️⃣  | 🔗 **Content Provider**       | Share data securely across different apps             |
+|   3️⃣  | 💬 **Dialog Boxes**           | Build alert, confirmation, and custom UI dialogs      |
+|   4️⃣  | 🧭 **Drawer Layout**          | Implement modern sidebar navigation                   |
+|   5️⃣  | 💾 **External Storage**       | Read/write files to SD card or public storage         |
+|   6️⃣  | 🧩 **Fragment Communication** | Pass data and trigger actions between fragments       |
+|   7️⃣  | 📍 **GPS Demo**               | Access device location and use Google Maps features   |
+|   8️⃣  | 🗃️ **Internal Storage**      | Store files safely within app-specific memory         |
+|   9️⃣  | ⚙️ **Service**                | Run tasks in the background (even when app is closed) |
+|   🔟   | 🔐 **Shared Preferences**     | Save app settings using key-value pairs               |
+| 1️⃣1️⃣ | 🧵 **Thread Demo**            | Perform multitasking using threads                    |
+| 1️⃣2️⃣ | 🎙️ **Voice Note**            | Record and save audio using mic input                 |
 
 ---
 
