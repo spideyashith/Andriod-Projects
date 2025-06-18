@@ -1,4 +1,3 @@
-[media pointer="file-service://file-9w8X36qYyysGs5xDp7hNWa"]
 
 # 📱 Android Lab Programs – St Aloysius College (AIMIT)
 <p align="center">
@@ -84,4 +83,3 @@ Feel free to:
   </h4>
 </div>
 
-i need image as my background can u do 
