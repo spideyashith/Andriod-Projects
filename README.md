@@ -1,9 +1,12 @@
 <div style="
-  background: url('https://github.com/spideyashith/Nodecomplete-recordprogram/blob/main/aimit-admin.jpg?raw=true') no-repeat center center fixed;
-  background-size: cover;
+  background-color: #e0f0ff; /* Soft blue background */
   padding: 60px;
-  color: white;
+  color: #222;
   text-align: center;
+  border-radius: 12px;
+  max-width: 800px;
+  margin: 40px auto;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.1);
 ">
 ---
 # 📱 Android Lab Programs – St Aloysius College (AIMIT)
