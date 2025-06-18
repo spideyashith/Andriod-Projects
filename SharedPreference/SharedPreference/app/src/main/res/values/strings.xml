@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreference</string>
+    <string name="shared_preference_demo">Shared Preference Demo</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="light_theme">Light Theme</string>
+    <string name="second_activity">Second Activity</string>
+</resources>
