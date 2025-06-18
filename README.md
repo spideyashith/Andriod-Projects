@@ -1,25 +1,14 @@
-<div style="
-  background-color: #e0f0ff; /* Soft blue background */
-  padding: 60px;
-  color: #222;
-  text-align: center;
-  border-radius: 12px;
-  max-width: 800px;
-  margin: 40px auto;
-  box-shadow: 0 8px 24px rgba(0,0,0,0.1);
-">
----
+
 # 📱 Android Lab Programs – St Aloysius College (AIMIT)
 <p align="center">
   <img src="https://raw.githubusercontent.com/spideyashith/angularapp/refs/heads/master/aimit-logo.webp" alt="AIMIT Logo" width="400"/>
 </p>
 
-<div align="center" style="font-family: Arial, sans-serif; padding: 15px; border-radius: 10px; background-color: #f0f8ff; color: #333; max-width: 700px; margin: auto;">
-  <h3>🎓 Developed as part of the <em>MSc Software Technology</em> program</h3>
-  <p><strong>St Aloysius Deemed to be University, AIMIT, Mangalore</strong></p>
-  <p style="font-size: 14px; color: #666;">This project reflects academic learning and real-world application.</p>
+<div align="center" style="font-family: 'Segoe UI', sans-serif; background-color: #eaf6ff; padding: 20px; margin: 20px auto; border-radius: 16px; max-width: 800px; box-shadow: 0 4px 16px rgba(0,0,0,0.05);">
+  <h2>🎓 MSc Software Technology Program</h2>
+  <p style="font-size: 18px;"><strong>St Aloysius Deemed to be University, AIMIT, Mangalore</strong></p>
+  <p style="color: #555; font-size: 14px;">This project reflects academic learning and practical implementation of Android concepts.</p>
 </div>
-
 ---
 
 ## 📚 Project Overview
