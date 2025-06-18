@@ -4,7 +4,11 @@
   <img src="https://raw.githubusercontent.com/spideyashith/angularapp/refs/heads/master/aimit-logo.webp" alt="AIMIT Logo" width="400"/>
 </p>
 
-> 🎓 Developed as part of the MSc Software Technology program at **St Aloysius Deemed to be University, AIMIT, Mangalore**.
+<div align="center" style="font-family: Arial, sans-serif; padding: 15px; border-radius: 10px; background-color: #f0f8ff; color: #333; max-width: 700px; margin: auto;">
+  <h3>🎓 Developed as part of the <em>MSc Software Technology</em> program</h3>
+  <p><strong>St Aloysius Deemed to be University, AIMIT, Mangalore</strong></p>
+  <p style="font-size: 14px; color: #666;">This project reflects academic learning and real-world application.</p>
+</div>
 
 ---
 
@@ -70,13 +74,13 @@ Feel free to:
 **📬 All contributions are credited and appreciated!**
 ----
 <div align="center">
-  <h2>📄 License & Copyright</h2>
-  <h3>
+  <h3>📄 License & Copyright</h3>
+  <h4>
     © 2025 <strong>Ashith Fernandes</strong><br>
     <em>St Aloysius Deemed to be University – MSc Software Technology</em><br><br>
     All rights reserved.<br>
     This project is part of academic coursework and is open for learning and contributions.
-  </h3>
+  </h4>
 </div>
 
 
