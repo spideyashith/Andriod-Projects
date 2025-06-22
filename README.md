@@ -9,8 +9,8 @@
   <p style="font-size: 18px;"><strong>St Aloysius Deemed to be University, AIMIT, Mangalore</strong></p>
   <p style="color: #555; font-size: 14px;">This project reflects academic learning and practical implementation of Android concepts.</p>
 </div>
----
 
+---
 ## 📚 Project Overview
 
 This repository contains a collection of Android application projects completed during our classroom lab sessions. The aim is to demonstrate fundamental Android development concepts such as Activities, Broadcast Receivers, Services, Storage, UI components, and more.
