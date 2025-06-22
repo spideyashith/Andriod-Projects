@@ -84,13 +84,13 @@ Feel free to:
 
 <p align="center">
   — Ashith Fernandes  
-  <br>
+  <br><strong>
   St Aloysius College (Deemed to be University), AIMIT  
-  M.Sc. Software Technology
+  M.Sc. Software Technology</strong>
 </p>
 
-<p align="center">
-  © 2025 Ashith Fernandes. All rights reserved.
+<p align="center"><b>
+  © 2025 Ashith Fernandes. All rights reserved.</b>
 </p>
 
 
