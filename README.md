@@ -71,14 +71,33 @@ Feel free to:
 - Share new ideas via issues or pull requests
   
 **📬 All contributions are credited and appreciated!**
-----
-<div align="center">
-  <h3>📄 License & Copyright</h3>
-  <h4>
-    © 2025 <strong>Ashith Fernandes</strong><br>
-    <em>St Aloysius Deemed to be University – MSc Software Technology</em><br><br>
-    All rights reserved.<br>
-    This project is part of academic coursework and is open for learning and contributions.
-  </h4>
-</div>
+-------
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/spideyashith/Nodecomplete-recordprogram/main/ChatGPT%20Image%20Jun%2023%2C%202025%2C%2012_24_08%20AM.png" alt="AIMIT Banner" width="600"/>
+</p>
+
+---
+
+<p align="center" style="font-style: italic; font-size: 18px;">
+  "Code is like poetry — refined by logic and inspired by creativity."
+</p>
+
+<p align="center">
+  🚀 Thank you for exploring this project!  
+  <br>
+  If you found it interesting or helpful, feel free to ⭐ star this repo and share your feedback.
+</p>
+
+<p align="center">
+  — Ashith Fernandes  
+  <br>
+  St Aloysius College (Deemed to be University), AIMIT  
+  M.Sc. Software Technology
+</p>
+
+<p align="center">
+  © 2025 Ashith Fernandes. All rights reserved.
+</p>
+
 
