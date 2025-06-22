@@ -72,13 +72,6 @@ Feel free to:
   
 **📬 All contributions are credited and appreciated!**
 -------
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/spideyashith/Nodecomplete-recordprogram/main/ChatGPT%20Image%20Jun%2023%2C%202025%2C%2012_24_08%20AM.png" alt="AIMIT Banner" width="600"/>
-</p>
-
----
-
 <p align="center" style="font-style: italic; font-size: 18px;">
   "Code is like poetry — refined by logic and inspired by creativity."
 </p>
