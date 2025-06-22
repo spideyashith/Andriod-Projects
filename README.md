@@ -1,7 +1,7 @@
 
 # 📱 Android Lab Programs – St Aloysius College (AIMIT)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/spideyashith/angularapp/refs/heads/master/aimit-logo.webp" alt="AIMIT Logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/spideyashith/Nodecomplete-recordprogram/main/ChatGPT%20Image%20Jun%2023%2C%202025%2C%2012_24_08%20AM.png" alt="AIMIT Banner" width="600"/>
 </p>
 
 <div align="center" style="font-family: 'Segoe UI', sans-serif; background-color: #eaf6ff; padding: 20px; margin: 20px auto; border-radius: 16px; max-width: 800px; box-shadow: 0 4px 16px rgba(0,0,0,0.05);">
